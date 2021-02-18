@@ -1,0 +1,7 @@
+640x480 @ 30Hz
+Traceback (most recent call last):
+  File "C:\Users\HP\Documents\SEM 3 NYU\Robot Perception\HW1\Task 4\VisualStudio_soln_task4.py", line 35, in <module>
+    ids, corners, centers, Hs = pyAprilTag.find(frame)
+KeyboardInterrupt
+[ WARN:0] terminating async callback
+Press any key to continue . . .
